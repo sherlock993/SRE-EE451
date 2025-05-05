@@ -1,6 +1,5 @@
 
 function compareVariabilityParams_FULL()
-    % Housekeeping -------------------------------------------------------
     clear; clc; close all;
     fprintf('\n[ compareVariabilityParams_FULL ]  started at %s\n', datestr(now));
 
